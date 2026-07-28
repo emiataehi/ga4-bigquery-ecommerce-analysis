@@ -1,5 +1,3 @@
-# ga4-bigquery-ecommerce-analysis
-
 # GA4 and BigQuery Ecommerce Analysis
 
 This project uses Google Analytics 4 and BigQuery to investigate user behaviour, channel value and purchase patterns across the Google Merchandise Store. The dataset is publicly available through the GA4 demo account.
